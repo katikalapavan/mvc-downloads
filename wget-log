@@ -1,0 +1,163 @@
+--2022-04-28 11:19:40--  http://ssh/
+Resolving ssh (ssh)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘ssh’
+--2022-04-28 11:19:40--  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Resolving ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)... 3.88.233.172
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:21:51--  (try: 2)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:24:03--  (try: 3)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:26:17--  (try: 4)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:28:31--  (try: 5)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:30:48--  (try: 6)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:33:04--  (try: 7)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:35:20--  (try: 8)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:37:38--  (try: 9)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:39:56--  (try:10)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:42:17--  (try:11)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:44:36--  (try:12)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:46:55--  (try:13)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:49:14--  (try:14)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:51:34--  (try:15)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:53:53--  (try:16)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:56:12--  (try:17)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 11:58:31--  (try:18)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 12:00:51--  (try:19)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Retrying.
+
+--2022-04-28 12:03:10--  (try:20)  http://ubuntu@ec2-3-88-233-172.compute-1.amazonaws.com/
+Connecting to ec2-3-88-233-172.compute-1.amazonaws.com (ec2-3-88-233-172.compute-1.amazonaws.com)|3.88.233.172|:80... failed: Connection timed out.
+Giving up.
+
+pavan123.pem: Invalid URL /+jyjHr5njfV4AYT9K8PTVC6L13ngiW2e24FmieDqXVHM5t6tZUjTZs+TP4Hx6eY: Scheme missing
+--2022-04-28 12:05:19--  http://-----begin%20rsa%20private%20key-----/
+Resolving -----begin rsa private key----- (-----begin rsa private key-----)... failed: Name or service not known.
+wget: unable to resolve host address ‘-----begin rsa private key-----’
+--2022-04-28 12:05:19--  http://miiepaibaakcaqealtwsr6gz8tffqptpwl8ntascsa6lkmdiqqa8mne2a8oam1es/
+Resolving miiepaibaakcaqealtwsr6gz8tffqptpwl8ntascsa6lkmdiqqa8mne2a8oam1es (miiepaibaakcaqealtwsr6gz8tffqptpwl8ntascsa6lkmdiqqa8mne2a8oam1es)... failed: Name or service not known.
+wget: unable to resolve host address ‘miiepaibaakcaqealtwsr6gz8tffqptpwl8ntascsa6lkmdiqqa8mne2a8oam1es’
+--2022-04-28 12:05:19--  http://vfhli846iobdfugg6vnsq1qho0nkq4ih4mcl/0NRwpiZ3I49Ft32NPREImsc08Ay
+Resolving vfhli846iobdfugg6vnsq1qho0nkq4ih4mcl (vfhli846iobdfugg6vnsq1qho0nkq4ih4mcl)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘vfhli846iobdfugg6vnsq1qho0nkq4ih4mcl’
+--2022-04-28 12:05:19--  http://ehyjbcnls1lmoslw0+wjfdaqbyhjazxqdu6unvcehaoszfl65f1agwj4w49ihr6v/
+Resolving ehyjbcnls1lmoslw0+wjfdaqbyhjazxqdu6unvcehaoszfl65f1agwj4w49ihr6v (ehyjbcnls1lmoslw0+wjfdaqbyhjazxqdu6unvcehaoszfl65f1agwj4w49ihr6v)... failed: Name or service not known.
+wget: unable to resolve host address ‘ehyjbcnls1lmoslw0+wjfdaqbyhjazxqdu6unvcehaoszfl65f1agwj4w49ihr6v’
+--2022-04-28 12:05:19--  http://ff3iar/VCSbYBTv3cF1fyz5poez3ML5fw6VoZE9Jd20tI25rL3doHEUD1o4LNn+F
+Resolving ff3iar (ff3iar)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘ff3iar’
+--2022-04-28 12:05:19--  http://cgvlxft2umedylf7v9ny5ddqijdob4xzr7gxdwidaqabaoibacxjpuxjwbbo+zyp/
+Resolving cgvlxft2umedylf7v9ny5ddqijdob4xzr7gxdwidaqabaoibacxjpuxjwbbo+zyp (cgvlxft2umedylf7v9ny5ddqijdob4xzr7gxdwidaqabaoibacxjpuxjwbbo+zyp)... failed: Name or service not known.
+wget: unable to resolve host address ‘cgvlxft2umedylf7v9ny5ddqijdob4xzr7gxdwidaqabaoibacxjpuxjwbbo+zyp’
+--2022-04-28 12:05:19--  http://iaejl5wg/jFYg3S/8AFXNpkRXdUEg1EjKGgDgnXH/pc4PtCs/Re4hhE4eIc+29d5
+Resolving iaejl5wg (iaejl5wg)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘iaejl5wg’
+--2022-04-28 12:05:19--  http://iitmjs3bsifdvh53wcfwyu79idglpwk+cbtuchkf2tdgmnda08j0mcwmtcetdvzl/
+Resolving iitmjs3bsifdvh53wcfwyu79idglpwk+cbtuchkf2tdgmnda08j0mcwmtcetdvzl (iitmjs3bsifdvh53wcfwyu79idglpwk+cbtuchkf2tdgmnda08j0mcwmtcetdvzl)... failed: Name or service not known.
+wget: unable to resolve host address ‘iitmjs3bsifdvh53wcfwyu79idglpwk+cbtuchkf2tdgmnda08j0mcwmtcetdvzl’
+--2022-04-28 12:05:19--  http://qtucqswedziw4wfhezewsypje76m99dzaj+h4yehan3xevgkwjovavknh6h7etwo/
+Resolving qtucqswedziw4wfhezewsypje76m99dzaj+h4yehan3xevgkwjovavknh6h7etwo (qtucqswedziw4wfhezewsypje76m99dzaj+h4yehan3xevgkwjovavknh6h7etwo)... failed: Name or service not known.
+wget: unable to resolve host address ‘qtucqswedziw4wfhezewsypje76m99dzaj+h4yehan3xevgkwjovavknh6h7etwo’
+--2022-04-28 12:05:19--  http://y7nt/ASDh8yKHJJQXNqridOMts7Cn/M8UfFJ8qIVDg85IwoSOhMBZnAUY5gWknwT
+Resolving y7nt (y7nt)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘y7nt’
+--2022-04-28 12:05:19--  http://eajyp4jhln63hpywzf/a7lJMoYbk4tflFYHdWtaSs5w8wddunFKeNA/b85jTIaA7
+Resolving eajyp4jhln63hpywzf (eajyp4jhln63hpywzf)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘eajyp4jhln63hpywzf’
+--2022-04-28 12:05:19--  http://xx75rxecgyea03y5apt2itcoh5ofxyuqpm50zbpxibfmahpmsc2ozmshetftycnl/
+Resolving xx75rxecgyea03y5apt2itcoh5ofxyuqpm50zbpxibfmahpmsc2ozmshetftycnl (xx75rxecgyea03y5apt2itcoh5ofxyuqpm50zbpxibfmahpmsc2ozmshetftycnl)... failed: Name or service not known.
+wget: unable to resolve host address ‘xx75rxecgyea03y5apt2itcoh5ofxyuqpm50zbpxibfmahpmsc2ozmshetftycnl’
+--2022-04-28 12:05:19--  http://opcim75ezs3afn6ij9gj8/tF1QeDh9uDfKstLcw/i+YEHZS2JsOOilvf52uQ3Oct
+Resolving opcim75ezs3afn6ij9gj8 (opcim75ezs3afn6ij9gj8)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘opcim75ezs3afn6ij9gj8’
+--2022-04-28 12:05:19--  http://cek1jtmhtqztwela6snfhfr57p8qe1i2vaxgbifuxizvl8sa5fewym0cgyeatkli/
+Resolving cek1jtmhtqztwela6snfhfr57p8qe1i2vaxgbifuxizvl8sa5fewym0cgyeatkli (cek1jtmhtqztwela6snfhfr57p8qe1i2vaxgbifuxizvl8sa5fewym0cgyeatkli)... failed: Name or service not known.
+wget: unable to resolve host address ‘cek1jtmhtqztwela6snfhfr57p8qe1i2vaxgbifuxizvl8sa5fewym0cgyeatkli’
+--2022-04-28 12:05:19--  http://2orj9olgg1zn0vw6jvrpks9ieshfocj4poszal6xkpvrujgyctrefdjxrbjouenm/
+Resolving 2orj9olgg1zn0vw6jvrpks9ieshfocj4poszal6xkpvrujgyctrefdjxrbjouenm (2orj9olgg1zn0vw6jvrpks9ieshfocj4poszal6xkpvrujgyctrefdjxrbjouenm)... failed: Name or service not known.
+wget: unable to resolve host address ‘2orj9olgg1zn0vw6jvrpks9ieshfocj4poszal6xkpvrujgyctrefdjxrbjouenm’
+--2022-04-28 12:05:19--  http://gi3ehhdce+bsbgmcelu4duna+7e7ozf1bdn5dyn/jEoB080NutFsUwA1T7ShGyx6
+Resolving gi3ehhdce+bsbgmcelu4duna+7e7ozf1bdn5dyn (gi3ehhdce+bsbgmcelu4duna+7e7ozf1bdn5dyn)... failed: Name or service not known.
+wget: unable to resolve host address ‘gi3ehhdce+bsbgmcelu4duna+7e7ozf1bdn5dyn’
+--2022-04-28 12:05:19--  http://mnch2iqbpcqornoqcnocomkj1vf7lmxva3gm0+scgyeanjxalnynh3lmmrtcbzkj/
+Resolving mnch2iqbpcqornoqcnocomkj1vf7lmxva3gm0+scgyeanjxalnynh3lmmrtcbzkj (mnch2iqbpcqornoqcnocomkj1vf7lmxva3gm0+scgyeanjxalnynh3lmmrtcbzkj)... failed: Name or service not known.
+wget: unable to resolve host address ‘mnch2iqbpcqornoqcnocomkj1vf7lmxva3gm0+scgyeanjxalnynh3lmmrtcbzkj’
+--2022-04-28 12:05:19--  http://fpx9ssupwwsguydor63t8bdlnsylvieqdax4qwx61byhi/dgyRvb9AAWkjkJ7raM
+Resolving fpx9ssupwwsguydor63t8bdlnsylvieqdax4qwx61byhi (fpx9ssupwwsguydor63t8bdlnsylvieqdax4qwx61byhi)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘fpx9ssupwwsguydor63t8bdlnsylvieqdax4qwx61byhi’
+--2022-04-28 12:05:19--  http://3nsre8dp7/iLMbqWwc/kMJ5mmhV/j9cieSC4Bsmb+QATK+DdxlUrY0N06Z1LoneQ
+Resolving 3nsre8dp7 (3nsre8dp7)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘3nsre8dp7’
+--2022-04-28 12:05:19--  http://crgyzcnobqhucusr1+cgp80cgyeaqnxp5+/QsFMhG5EvNjXnDJUMZPCezph8urQY
+Resolving crgyzcnobqhucusr1+cgp80cgyeaqnxp5+ (crgyzcnobqhucusr1+cgp80cgyeaqnxp5+)... failed: Name or service not known.
+wget: unable to resolve host address ‘crgyzcnobqhucusr1+cgp80cgyeaqnxp5+’
+--2022-04-28 12:05:19--  http://9z4/+IDjHln/UHy+45NWN80Gk66DfUs+zTGFco/sDj/JcVrxwCS1xZN1Z3DveUms
+Resolving 9z4 (9z4)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘9z4’
+--2022-04-28 12:05:19--  http://vjcs3i3kjmneya/ule5M7+KRbH8DTVZilj7Xa432+wmJgZXzWP2qhjG/U3OsODOm
+Resolving vjcs3i3kjmneya (vjcs3i3kjmneya)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘vjcs3i3kjmneya’
+--2022-04-28 12:05:19--  http://mzjlotmcgybhjqrxc8lxurgcxggw6/rb/PF3Ma1r4tyMOWrRgbXyPhYw8hBGrRM8
+Resolving mzjlotmcgybhjqrxc8lxurgcxggw6 (mzjlotmcgybhjqrxc8lxurgcxggw6)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘mzjlotmcgybhjqrxc8lxurgcxggw6’
+--2022-04-28 12:05:19--  http://5fws5m1zejrrevy4xbccbtmmeg5hnz0fo+/fULx801lC5lRwx14REKhARgXorInW
+Resolving 5fws5m1zejrrevy4xbccbtmmeg5hnz0fo+ (5fws5m1zejrrevy4xbccbtmmeg5hnz0fo+)... failed: Name or service not known.
+wget: unable to resolve host address ‘5fws5m1zejrrevy4xbccbtmmeg5hnz0fo+’
+--2022-04-28 12:05:19--  http://yedjqik5g1xjvbinnecl8i//VAtS+LCm7ey3kSKxt2JmQRx8WQ0VMw==
+Resolving yedjqik5g1xjvbinnecl8i (yedjqik5g1xjvbinnecl8i)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘yedjqik5g1xjvbinnecl8i’
+--2022-04-28 12:05:19--  http://-----end%20rsa%20private%20key-----/
+Resolving -----end rsa private key----- (-----end rsa private key-----)... failed: Name or service not known.
+wget: unable to resolve host address ‘-----end rsa private key-----’

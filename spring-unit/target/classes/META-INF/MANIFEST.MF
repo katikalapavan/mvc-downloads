@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ubuntu
+Build-Jdk: 16.0.1
+Implementation-Title: SpringBootDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.java.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springbootdemo
+Created-By: Maven Integration for Eclipse
+

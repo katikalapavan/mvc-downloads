@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=pwc-spring-MVC (2)
+Comment=Open '/home/ubuntu/Downloads/pwc-spring-MVC (2)'
+Icon=inode-directory
+Name[C]=pwc-spring-MVC (2)
+Comment[C]=Open '/home/ubuntu/Downloads/pwc-spring-MVC (2)'
+Icon[C]=inode-directory
+URL=file:///home/ubuntu/Downloads/pwc-spring-MVC%20(2)
+Type=Link
